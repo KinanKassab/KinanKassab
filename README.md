@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" align="right"/>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinankassab" alt="kinankassab" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=kinankassab" alt="kinankassab" /></a> </p>
 
 - 🔭 I’m currently working on [Online payment with portfolio for FIX team.](https://ticket-checker-seven.vercel.app/)
 
