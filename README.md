@@ -2,9 +2,6 @@
 <h3 align="center">I’m Kinan, a Syrian web developer turning ideas into clean, functional digital experiences. Passionate about building, learning, and leveling up every day.</h3>
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" align="right"/>
 
-
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=kinankassab" alt="kinankassab" /></a> </p>
-
 - 🔭 I’m currently working on [Online payment with portfolio for FIX team.](https://ticket-checker-seven.vercel.app/)
 
 - 🌱 I’m currently learning **Apps Development, Cybersecurity**
